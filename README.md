@@ -59,5 +59,5 @@ THE SOFTWARE.
 Author Information
 ------------------
 
-You are free to contact me at <nsg@nsg.cc> or open a issue at
+You are free to contact me at nsg@nsg.cc or open a issue at
 https://github.com/nsg/ansible-heka
