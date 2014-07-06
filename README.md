@@ -31,7 +31,7 @@ Include like you normally do:
 
     - hosts: servers
       roles:
-         - role: nsg.heka
+         - nsg.heka
 
 License
 -------
